@@ -11,6 +11,8 @@ Mathematics graduate with two years in the music industry and now Full Stack Jun
 
 I am now looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
 
+
+
 <a name="built"></a>
 ## What I've built
 
@@ -25,12 +27,15 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 ## Other skills
 
 **Problem solver**
+
 Having studied mathematics on one hand and having learnt to code on the other I found that problem-solving is a constant struggle between obsession and lucidity. During my education I have managed to tackle complex problems thanks to patience and careful planning of a solution which I hope to bring to new challenges in the workplace.
 
 **New technologies/ languages**
+
 Through my bachelor and lately the coding course I undertook, I have had to pick up entirely new concepts and new logical frameworks in short time to be able advance in my learning and build functional web apps.
 
 **Versatility**
+
 Key strengths I look to bring to companies include a diverse, international, academic and social background. I have lived in Lebanon France and the UK in various cities and am now able to adapt to new environments.
 
 
