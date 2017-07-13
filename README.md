@@ -11,7 +11,6 @@ Mathematics graduate with two years in the music industry and now Full Stack Jun
 
 I am now looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
 
--
 <a name="built"></a>
 ## What I've built
 
@@ -22,7 +21,6 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 | [Bank tech test](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit and withdrawal objects and have a statement printed detailing the transactions processed and the balance changes incurred | Ruby, Sinatra |
 | [Project byoman](https://github.com/henryhobhouse/project_byoman) | A replica of PacMan built in pure Javascript with minimal framework [(try here)](https://project-byo-man.herokuapp.com/)  | Javascript, Node.js |
 | [Quizz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
----
 
 ## Other skills
 
@@ -35,8 +33,6 @@ Through my bachelor and lately the coding course I undertook, I have had to pick
 **Versatility**
 Key strengths I look to bring to companies include a diverse, international, academic and social background. I have lived in Lebanon France and the UK in various cities and am now able to adapt to new environments.
 
-
----
 
 <a name="education"></a>
 ## Education
@@ -58,7 +54,7 @@ Bachelor of Science in Mathematics
 - Complex problem solving
 -
 
----
+--
 
 ## What I did previously
 
@@ -69,7 +65,7 @@ Description
 Description
 
 
----
+--
 <a name="love"></a>
 ## Things I love
 
