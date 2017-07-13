@@ -1,5 +1,5 @@
 ## Paul Kassar CV
-<center>[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love)</center>
+[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love)
 
 Mathematics graduate with two years working in the music industry and now Full Stack Junior Developer.
 I am looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
@@ -21,7 +21,7 @@ I am now looking for my first job as a developer where I can grow my skills whil
 For a complete list, go to [GitHub](https://github.com/pkassar)
 
 | Project   | Description | Technologies |
-|---  |:---:         |---           |
+|------------------------------------------------------------------------------------------------  |:---:         |---           |
 | [Bank tech test](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit and withdrawal objects and have a statement printed detailing the transactions processed and the balance changes incurred | Ruby, Sinatra |
 | [Project byoman](https://github.com/henryhobhouse/project_byoman) | A replica of PacMan built in pure Javascript with minimal framework [(try here)](https://project-byo-man.herokuapp.com/)  | Javascript, Node.js |
 | [Quizz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
