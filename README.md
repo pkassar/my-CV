@@ -1,5 +1,5 @@
 ## Paul Kassar CV
-<p align="center">[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love) 
+<p align="center" [What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love)>
 
 Mathematics graduate with two years working in the music industry and now Full Stack Junior Developer.
 I am looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
