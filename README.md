@@ -29,12 +29,15 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 ## Other skills
 
 **Problem solver**
+
 Having studied mathematics on one hand and having learnt to code on the other I found that problem-solving is a constant struggle between obsession and lucidity. During my education I have managed to tackle complex problems thanks to patience and careful planning of a solution which I hope to bring to new challenges in the workplace.
 
 **New concepts and languages**
+
 Through my bachelor and lately the coding course I undertook, I have had to pick up entirely new multilayered concepts and new frameworks. Both courses have enabled me to integrate material in short time to be able advance in my learning and build on my knowledge. Recently part of a team that developed an quizz app on NodeJS
 
 **Versatility and interpersonal skills**
+
 Key strengths I look to bring to companies include a diverse, international, academic and social background. I have lived in Lebanon France and the UK in various cities and am now able to adapt to new environments. In my last project I was able to mediate a conflict between two equally strong team members that were quite incompatible in their character traits in order to move forward in our tasks.
 
 
