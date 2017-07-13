@@ -1,16 +1,13 @@
 ## Paul Kassar
 [Skills](#skills) | [What I've built so far](#built) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
----
 
-#### Hi,
-I am passionate about coding! I enjoy being creative and technical at the same time and building products that solve real world problems.
 
-I'm a Full Stack Junior Developer with two years previous experience in the music industry and a degree in Mathematics.
+Mathematics graduate with  two years in the music industry and now Full Stack Junior Developer.
 
 
 #### The story so far
 
-After graduating ...
+After graduating from the university of Edinburgh
 
 Finally,
 
@@ -35,20 +32,19 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 
 ## What else can I do?
 
-#### I'm a self-motivated learner
+#### Problem solver
 
 
-#### beyond role contribution
+#### New technologies/ languages
+through mathematics and now MA
+
+
+#### Team
 
 
 
-#### soft skill
 
-teams
 
-a
-
-b
 ---
 
 <a name="education"></a>
