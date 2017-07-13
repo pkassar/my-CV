@@ -4,7 +4,7 @@ Mathematics graduate with two years in the music industry and now Full Stack Jun
 
  [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Things I love](#love) |
 
-#### A little bit of story
+## A little bit of story
 
 After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency that deals with top40 artists to discover licensing and artist touring logistics.
 
@@ -77,6 +77,6 @@ Description
 <a name="love"></a>
 ## Things I love
 
-- 👨‍🎤** Live music:** A lot of my free time is spent around attending concerts or shows in all genres.
-- 🕵🏻 **DJing and finding new music:** [my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks which I sometimes play at friends' events
+- 👨‍🎤 **Live music:** A lot of my free time is spent around attending concerts or shows in all genres.
+- 🕵🏻 **Finding new music and DJ'ing:** [my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks which I sometimes play at friends' events
 - 🎸 **Been in unsuccessful bands:** I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
