@@ -3,7 +3,7 @@
 Mathematics graduate with two years working in the music industry and now Full Stack Junior Developer.
 I am looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
 
-[What I've built so far](#built) | [Other skills](#other skills) | [Education](#education) | [Work Experience](#work experience) | [Things I love](#love) |
+[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love) |
 
 ## A little bit of story
 
@@ -26,7 +26,7 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 | [Project byoman](https://github.com/henryhobhouse/project_byoman) | A replica of PacMan built in pure Javascript with minimal framework [(try here)](https://project-byo-man.herokuapp.com/)  | Javascript, Node.js |
 | [Quizz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
 ---
-<a name="other skills"></a>
+<a name="other"></a>
 ## Other skills
 
 **Problem solver**
@@ -65,7 +65,7 @@ Bachelor of Science in Mathematics
 - Assiduous problem solving
 -
 ---
-<a name="work experience"></a>
+<a name="work"></a>
 ## What I did previously
 
 **Modest Management** (Apr 2016 -  Dec 2016)  
