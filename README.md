@@ -3,7 +3,7 @@
 Mathematics graduate with two years working in the music industry and now Full Stack Junior Developer.
 I am looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
 
-[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love) |
+[What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love) 
 
 ## A little bit of story
 
