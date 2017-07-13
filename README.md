@@ -1,21 +1,18 @@
 ## Paul Kassar
-[Skills](#skills) | [What I've built so far](#built) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
+ [What I've built so far](#built) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
 
+Mathematics graduate with two years in the music industry and now Full Stack Junior Developer.
 
-Mathematics graduate with  two years in the music industry and now Full Stack Junior Developer.
+#### My story so far
 
+After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency that deals with top40 artists to discover licensing and artist touring logistics.
 
-#### The story so far
+After taking some time to think about the next steps I realised I was looking for a more challenging roles that involved technical abilities and growth prospect.
 
-After graduating from the university of Edinburgh
+I discovered and started loving coding. I embarked on the journey that is Makers Academy: a 12-week intense course to give you the tools to learn code.
 
-Finally,
+I am now looking for my first job as a developer where can grow whilst still exploring my love and understanding of music
 
-
-#### coding
-
-
-looking for my first job as a developer
 
 ---
 <a name="built"></a>
