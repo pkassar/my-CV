@@ -4,7 +4,7 @@ Mathematics graduate with two years in the music industry and now Full Stack Jun
 
  [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
 
-#### My story so far
+#### A little bit of story
 
 After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency that deals with top40 artists to discover licensing and artist touring logistics.
 
@@ -12,7 +12,7 @@ After taking some time to think about the next steps I realised I was looking fo
 
 I discovered and started loving coding. I embarked on the journey that is Makers Academy: a 12-week intense course to give you the tools to learn code.
 
-I am now looking for my first job as a developer where can grow whilst still exploring my love and understanding of music
+I am now looking for my first job as a developer where can grow my skills whilst exploring my love for music.
 
 
 ---
@@ -30,17 +30,14 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 
 ## Other skills
 
-#### Problem solver
+**Problem solver**
+Having studied mathematics on one hand and having learnt to code on the other I found that problem-solving is a constant struggle between obsession and lucidity. During my education I have managed to tackle complex problems thanks to patience and careful planning of a solution which I hope to bring to new challenges in the workplace.
 
+**New technologies/ languages**
+Through my bachelor and lately the coding course I undertook, I have had to pick up entirely new concepts and new logical frameworks in short time to be able advance in my learning and build functional web apps.
 
-#### New technologies/ languages
-through mathematics and now MA
-
-
-#### Team
-
-
-
+**Versatility**
+Key strengths I look to bring to companies include a diverse, international, academic and social background. I have lived in Lebanon France and the UK in various cities and am now able to adapt to new environments.
 
 
 ---
