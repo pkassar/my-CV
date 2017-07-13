@@ -2,7 +2,7 @@
 
 Mathematics graduate with two years working in the music industry and now Full Stack Junior Developer.
 
- [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Things I love](#love) |
+ [What I've built so far](#built) | [Other skills](#other skills)| [Education](#education) | [Work Experience](#work experience) | [Things I love](#love) |
 
 ## A little bit of story
 
@@ -25,7 +25,7 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 | [Project byoman](https://github.com/henryhobhouse/project_byoman) | A replica of PacMan built in pure Javascript with minimal framework [(try here)](https://project-byo-man.herokuapp.com/)  | Javascript, Node.js |
 | [Quizz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
 ---
-
+<a name="other skills"></a>
 ## Other skills
 
 **Problem solver**
@@ -64,7 +64,7 @@ Bachelor of Science in Mathematics
 - Assiduous problem solving
 -
 ---
-
+<a name="work experience"></a>
 ## What I did previously
 
 **Modest Management** (Apr 2016 -  Dec 2016)  
