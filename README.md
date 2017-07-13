@@ -2,7 +2,7 @@
 
 Mathematics graduate with two years in the music industry and now Full Stack Junior Developer.
 
- [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
+ [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Things I love](#love) |
 
 #### A little bit of story
 
@@ -74,10 +74,9 @@ Description
 
 
 ---
+<a name="love"></a>
+## Things I love
 
-## Other interests
-
-- Live music: A lot of my free time is spent around attending concerts or shows in all genres.
-- Finding new music and DJ: For the last three years I have played music for  friends' events
-[my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks.
-- Been in unsuccessful bands: I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
+- 👨‍🎤** Live music:** A lot of my free time is spent around attending concerts or shows in all genres.
+- 🕵🏻 **DJing and finding new music:** [my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks which I sometimes play at friends' events
+- 🎸 **Been in unsuccessful bands:** I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
