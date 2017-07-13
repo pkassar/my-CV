@@ -1,7 +1,8 @@
 ## Paul Kassar
- [What I've built so far](#built) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
 
 Mathematics graduate with two years in the music industry and now Full Stack Junior Developer.
+
+ [What I've built so far](#built) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
 
 #### My story so far
 
@@ -16,7 +17,7 @@ I am now looking for my first job as a developer where can grow whilst still exp
 
 ---
 <a name="built"></a>
-## What I've built so far
+## What I've built
 
 For a complete list, go to [GitHub](https://github.com/pkassar)
 
@@ -27,7 +28,7 @@ For a complete list, go to [GitHub](https://github.com/pkassar)
 | [Quizz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
 ---
 
-## What else can I do?
+## Other skills
 
 #### Problem solver
 
@@ -68,13 +69,10 @@ Bachelor of Science in Mathematics
 
 ## What I did previously
 
-**a** (Apr 2016 - Jan 2017)  
+**Modest Management** (Apr 2016 -  Dec 2016)  
 Description
 
-**b** (Dec 2013 - Apr 2016)  
-Description
-
-**cs** (Sep 2012 - Dec 2013)  
+**Marketing Music** (Apr 2015 - Mar 2016)  
 Description
 
 
@@ -82,8 +80,7 @@ Description
 
 ## Other interests
 
-- a
-- b
-- c
-- d
-- e
+- Live music: A lot of my free time is spent around attending concerts or shows in all genres.
+- Finding new music and DJ: For the last three years I have played music for  friends' events
+[my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks.
+- Been in unsuccessful bands: I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
