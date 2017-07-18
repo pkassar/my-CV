@@ -8,7 +8,7 @@ I am looking for my first job as a Full Stack Junior Developer where I can grow 
 
 ## A little bit of story
 
- After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency that deals with top40 artists to discover licensing and artist touring logistics.
+ After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency artists to learn more about the industry and help artists develop their careers .
  After taking some time to think about the next steps I realised I was looking for a more challenging roles that involved technical abilities and growth prospect. 
 
 I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP
