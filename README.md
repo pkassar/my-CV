@@ -67,8 +67,7 @@ Bachelor of Science in Mathematics
 <a name="work"></a>
 ## What I did previously
 
-**Modest Management** (Apr 2016 -  Dec 2016)  
-Internship in Artist Management
+**Modest Management** (Apr 2016 -  Dec 2016)  Internship in Artist Management
 
 •	Finding undiscovered pop acts to develop a management contract with the agency
 •	Analysing current and future music trends through weekly industry reports of sales and streaming statistics 
@@ -77,8 +76,7 @@ Internship in Artist Management
 •	Building professional relationships with artists, offering guidance and insight of the different development 
     contracts the agency offers
 
-**Marketing Music** (Apr 2015 - Mar 2016)  
-Assistant A&R
+**Marketing Music** (Apr 2015 - Mar 2016)  Assistant A&R
 
 •	Event production: budget management and venue hiring for the label’s release parties 
 •	Listening and evaluating track demos sent to the label: participating in the artistic direction of Marketing Music
