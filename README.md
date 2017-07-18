@@ -13,8 +13,6 @@ I am looking for my first job as a Full Stack Junior Developer where I can grow 
 
 I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP
 
-I am now looking for my first job as a developer where I can grow my skills whilst exploring my love for music.
-
 ---
 <a name="built"></a>
 ## What I've built
@@ -70,7 +68,7 @@ Bachelor of Science in Mathematics
 ## What I did previously
 
 **Modest Management** (Apr 2016 -  Dec 2016)  
-Description
+Internship in Artist Management role.  
 
 **Marketing Music** (Apr 2015 - Mar 2016)  
 Description
