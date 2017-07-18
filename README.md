@@ -8,7 +8,7 @@ I am looking for my first job as a Full Stack Junior Developer where I can grow 
 
 ## A little bit of story
 
- After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency artists to learn more about the industry and help artists develop their careers .
+ After graduating from the university of Edinburgh I decided to follow my passion and work in the music industry. By helping out at small london based electronic music label I learned about different aspects of creating and releasing music. I later interned at a Management Agency artists to learn more about the industry and help artists develop their careers.
  After taking some time to think about the next steps I realised I was looking for a more challenging roles that involved technical abilities and growth prospect. 
 
 I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP
@@ -62,7 +62,7 @@ Bachelor of Science in Mathematics
 
 - Complex new concepts every semester
 - Assiduous problem solving
--
+- 
 ---
 <a name="work"></a>
 ## What I did previously
@@ -71,10 +71,9 @@ Bachelor of Science in Mathematics
 
 •	Finding undiscovered pop acts to develop a management contract with the agency
 •	Analysing current and future music trends through weekly industry reports of sales and streaming statistics 
-•	Identifying new talent on social media, by skimming through blogs and music hosting platforms (Soundcloud,       YouTube and Bandcamp)
+•	Identifying new talent on social media, by skimming through blogs and music hosting platforms (Soundcloud, YouTube and Bandcamp)
 •	Attending concerts and amateur music sessions around London to find live acts
-•	Building professional relationships with artists, offering guidance and insight of the different development 
-    contracts the agency offers
+•	Building professional relationships with artists, offering guidance and insight of the different development contracts the agency offers
 
 **Marketing Music** (Apr 2015 - Mar 2016)  Assistant A&R
 
@@ -83,7 +82,6 @@ Bachelor of Science in Mathematics
 •	Overseeing the recording process of signed acts: helping the artists create a music repertoire within
 the label
 •	Assisting with marketing and promotion: managing social media page of artists and advertising records through key tastemakers of the industry
-
 
 
 
