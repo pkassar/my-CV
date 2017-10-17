@@ -62,7 +62,6 @@ Bachelor of Science in Mathematics
 
 - Complex new concepts every semester
 - Assiduous problem solving
-- 
 ---
 <a name="work"></a>
 ## What I did previously
