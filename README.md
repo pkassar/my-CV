@@ -90,4 +90,4 @@ the label
 
 - 👨‍🎤 **Live music:** A lot of my free time is spent around attending concerts or shows in all genres.
 - 🕵🏻 **Finding new music and DJ'ing:** [my soundcloud](https://soundcloud.com/pkassar/likes) can be a testament to my constant digging for new artists and tracks which I sometimes play at friends' events
-- 🎸 **Been in unsuccessful bands:** I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
+- 🎸**Been in unsuccessful bands:** I've tried my hand at playing all sorts of instruments over the years and performed for an unlucky few.
