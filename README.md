@@ -3,7 +3,7 @@
 
 Mathematics graduate with two years working in the music industry.
 
-I am looking for my first job as a Full Stack Junior Developer where I can grow my skills whilst exploring my love for music.
+I am looking for my first job as a Full Stack Junior Developer where I can improve my skills day in day out.
 
 
 ## A little bit of story
