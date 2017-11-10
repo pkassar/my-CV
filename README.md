@@ -1,4 +1,4 @@
-### Paul Kassar CV
+## Paul Kassar CV
 [What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love)
 
 Mathematics graduate with two years working in the music industry.
