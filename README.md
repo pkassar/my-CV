@@ -11,7 +11,7 @@ Mathematics graduate with two years working in the music industry.
  After graduating from the university of Edinburgh I decided to follow my passion and start my career in the the music industry. I started working at a small london based electronic music label where I learned about different aspects of creating and releasing music. I later interned at an Artist Management Agency to learn more about the industry and help artists develop their careers.
 My daily challenges involved working in teams to help musicians and artists accomplish what they aspired to in their career in a high pressure environment. At the end of my experiences I realised I was looking for a more challenging role that involved the technical abilities I had summoned during my degree in Mathematics and needed an industry with a different growth prospect. 
 
-I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP. I later attended codesmith a software engineering residency working on full-stack javascript open source projects.
+I discovered and started loving coding. I embarked on the journey that is Makers Academy a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP. I later attended [Codesmith](https://www.codesmith.io/): a software engineering residency working on full-stack javascript open source projects.
 
 ---
 <a name="built"></a>
