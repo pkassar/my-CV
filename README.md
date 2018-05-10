@@ -1,9 +1,9 @@
 ## Paul Kassar CV
 [What I've built so far](#built) | [Other skills](#other) | [Education](#education) | [Work Experience](#work) | [Things I love](#love)
 
+One Year experience creating projects in Javascript and Ruby.
 Mathematics graduate with two years working in the music industry.
 
-I am looking for my first job as a Full Stack Junior Developer where I can improve my skills day in day out.
 
 
 ## A little bit of story
@@ -11,7 +11,7 @@ I am looking for my first job as a Full Stack Junior Developer where I can impro
  After graduating from the university of Edinburgh I decided to follow my passion and start my career in the the music industry. I started working at a small london based electronic music label where I learned about different aspects of creating and releasing music. I later interned at an Artist Management Agency to learn more about the industry and help artists develop their careers.
 My daily challenges involved working in teams to help musicians and artists accomplish what they aspired to in their career in a high pressure environment. At the end of my experiences I realised I was looking for a more challenging role that involved the technical abilities I had summoned during my degree in Mathematics and needed an industry with a different growth prospect. 
 
-I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP
+I discovered and started loving coding. I embarked on the journey that is [Makers Academy](http://www.makersacademy.com/): a 12 week intense course that gave me the tools to learn code. I have learnt various programming languages: Javascript, Ruby. As well as good code practice: TDD, OOP. I later attended codesmith a software engineering residency working on full-stack javascript open source projects.
 
 ---
 <a name="built"></a>
@@ -19,11 +19,6 @@ I discovered and started loving coding. I embarked on the journey that is [Maker
 
 For a complete list, go to [GitHub](https://github.com/pkassar)
 
-| Project   | Description | Technologies |
-|           ---                                      |:---:|---|
-| [Bank-tech-test](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit, withdrawals and a statement detailing the transactions processed and the balance changes incurred | Ruby, Sinatra |
-| [Project-byoman](https://github.com/henryhobhouse/project_byoman) | A replica of PacMan built in pure Javascript with minimal framework [(try here)](https://project-byo-man.herokuapp.com/)  | Javascript, Node.js |
-| [Quizz-App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated  | React-Native, NodeJS |
 ---
 <a name="other"></a>
 ## Other skills
@@ -34,7 +29,7 @@ Having studied mathematics on one hand and having learnt to code on the other I 
 
 **New concepts and languages**
 
-Through my bachelor and lately the coding course I undertook, I have had to pick up entirely new multilayered concepts and new frameworks. Both courses have enabled me to integrate material in short time to be able advance in my learning and build on my knowledge. Recently part of a team that developed an quizz app on NodeJS
+Through my bachelor and lately the coding course I undertook, I have had to pick up entirely new multilayered concepts and new frameworks. Both courses have enabled me to integrate material in short time to be able advance in my learning and build on my knowledge. Recently part of a team that developed a docker compose app.
 
 **Versatility and interpersonal skills**
 
@@ -45,14 +40,18 @@ Key strengths I look to bring to companies include a diverse, international, aca
 
 <a name="education"></a>
 ## Education
+#### 💻 Codesmith (March - Jun 2018)
+
+- Docker architecture
+- MERN Javascript full-stack apps
+- SQL and non SQL databases
+
 
 #### 💻 Makers Academy (Apr - Jun 2017)
 
 - Curiosity and passion for code
-- Independent learner and problem-solver
 - Object-oriented programming
 - Test-driven development
-- Software Craftsmanship
 - Ruby, Javascript, Node.js
 - RSpec, Jasmine, Mocha
 
