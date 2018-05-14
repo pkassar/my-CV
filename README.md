@@ -40,20 +40,9 @@ Key strengths I look to bring to companies include a diverse, international, aca
 
 <a name="education"></a>
 ## Education
-#### 💻 Codesmith (March - Jun 2018)
+#### 💻 Codesmith (2018)
 
-- Docker architecture
-- MERN Javascript full-stack apps
-- SQL and non SQL databases
-
-
-#### 💻 Makers Academy (Apr - Jun 2017)
-
-- Curiosity and passion for code
-- Object-oriented programming
-- Test-driven development
-- Ruby, Javascript, Node.js
-- RSpec, Jasmine, Mocha
+Software engineering residency
 
 #### 🎓 the University of Edinburgh (2010 - 2014)‍
 
@@ -64,22 +53,6 @@ Bachelor of Science in Mathematics
 ---
 <a name="work"></a>
 ## What I did previously
-
-**Modest Management** (Apr 2016 -  Dec 2016)  Internship in Artist Management
-
-•	Finding undiscovered pop acts to develop a management contract with the agency
-•	Analysing current and future music trends through weekly industry reports of sales and streaming statistics 
-•	Identifying new talent on social media, by skimming through blogs and music hosting platforms (Soundcloud, YouTube and Bandcamp)
-•	Attending concerts and amateur music sessions around London to find live acts
-•	Building professional relationships with artists, offering guidance and insight of the different development contracts the agency offers
-
-**Marketing Music** (Apr 2015 - Mar 2016)  Assistant A&R
-
-•	Event production: budget management and venue hiring for the label’s release parties 
-•	Listening and evaluating track demos sent to the label: participating in the artistic direction of Marketing Music
-•	Overseeing the recording process of signed acts: helping the artists create a music repertoire within
-the label
-•	Assisting with marketing and promotion: managing social media page of artists and advertising records through key tastemakers of the industry
 
 
 
